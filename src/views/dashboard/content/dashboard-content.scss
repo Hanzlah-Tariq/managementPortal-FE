@@ -1,0 +1,36 @@
+[id="dashboard-content"] {
+  clear: both;
+
+  .content-wrapper {
+    margin: 24px;
+  }
+
+  .add-button {
+    float: right;
+  }
+
+  .form-heading {
+    text-align: center;
+  }
+
+  .no-data {
+    text-align: center;
+  }
+
+  .no-data-add-button {
+    margin-top: 1rem;
+  }
+
+  .form-buttons-margin {
+    margin-right: 15px;
+  }
+
+  .list-item-border-bottom {
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .card-wrapper {
+    .ant-card-loading-block {
+      display: inherit;
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "invalidString": "String contains invalid characters.",
+  "capitalLetterInString": "Capital letters are not allowed.",
+  "required": "{0} is required.",
+  "defaultError": "Some thing went wrong while making the request",
+  "accessDenied": "Unauthorized to access {0} data.",
+  "unknownError": "Unknown server error."
+}

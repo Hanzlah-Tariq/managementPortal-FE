@@ -1,0 +1,16 @@
+[id="dashboard"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+
+  .layout {
+    position: absolute;
+    top: 46px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+  }
+}

@@ -1,0 +1,16 @@
+.app-loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: $white;
+
+  .load-spinner {
+    position: absolute;
+    text-align: center;
+    font-size: 1rem;
+    width: 100%;
+    top: 25%;
+  }
+}
